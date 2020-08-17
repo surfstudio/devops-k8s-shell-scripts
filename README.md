@@ -1,4 +1,4 @@
-# k8s-shell-scripts
+# devops-k8s-shell-scripts
 Shell scripts for setup Kubernetes
 
 
